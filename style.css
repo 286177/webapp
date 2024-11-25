@@ -5,12 +5,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: skyblue;
+    background: rgb(135,206,235);
+    background: linear-gradient(90deg, rgba(135,206,235,1) 0%, rgba(144,238,144,1) 88%); 
 }
 
 .container {
     text-align: center;
-    background: lightgreen;
+    background: skyblue;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);

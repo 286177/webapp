@@ -21,6 +21,19 @@ const questions = [
     { question: "Fly at 100 mph or run at 100 mph?" , optionA: "Fly", optionB: "Run" },
     { question: "Breathe underwater or walk through walls?" , optionA: "Underwater", optionB: "Walls" },
     { question: "Eat pizza every day for the rest of your life or never eat pizza for the next 5 years?", optionA: "Every day", optionB: "5 years" },
+    { question:  "Only be able to drink for a year or eat food for a year?", optionA: "Drink", optionB: "Food" },
+    { question: "Wear cowboy boots for a year or ride a horse for a year?", optionA: "Boots", optionB: "Horse" },
+    { question: "Travel anywhere on stilts or roller skates?", optionA: "Stilts", optionB: "Roller Skates" }, 
+    { question: "Eat pizza or ice cream for the rest of your life?", optionA: "Pizza", optionB: "Ice cream" }, 
+    { question: "Drink Pepsi or Coke for the rest of your life?", optionA: "Pepsi", optionB: "Coke" },
+    { question: "Never have your birthday or any holiday celebrated?", optionA: "Birthday", optionB: "Holiday" },
+    { question: "Always be sweaty or hungry?", optionA: "Sweaty", optionB: "Hungry" },
+    { question: "Always be cold or hot?", optionA: "Cold", optionB: "Hot" },
+    { question: "Have free groceries or free gas for the rest of your life?", optionA: "Groceries", optionB: "Gas" },
+    { question: "Live in a world without books or music?", optionA: "Books", optionB:" Music" },
+    { question: "Fight 500 ostriches or 1 T-rex?", optionA: "Ostriches", optionB: "T-rex" },
+    { question: "Be an infamous criminal or infamous actor?", optionA: "Criminal", optionB: "Actor" },
+
     // Add more questions here
 ];
 
